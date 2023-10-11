@@ -2,5 +2,5 @@
 
 ```
 node server
-node  client
+node client
 ```
